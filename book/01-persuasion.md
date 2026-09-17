@@ -116,4 +116,4 @@ Check the author, publication, date, and evidence when evaluating outside materi
 
 ## What You Should Remember
 
-Persuasion shapes attention, meaning, trust, and action while leaving room for choice. Cialdini's principles help explain common influence patterns, but they do not make every tactic ethical. Framing, loss aversion, and choice architecture show that the surrounding presentation matters as much as the object itself. Good design gives people reasons they can inspect, information they can use, and a real chance to decide.
+Persuasion shapes attention, meaning, trust, and action while leaving room for choice. Cialdini's principles help explain common influence patterns, but they do not make every tactic ethical. Framing, loss aversion, and choice architecture show that the surrounding presentation matters as much as the object itself. Good design gives people reasons they can inspect, information they can use, and a real chance to decide. 
