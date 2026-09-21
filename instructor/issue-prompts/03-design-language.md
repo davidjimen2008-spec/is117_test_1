@@ -7,7 +7,7 @@ Create a visual-design chapter that explains how design traditions communicate m
 ## Required Output
 
 `book/03-design-language.md`
-
+ grid, hierarchy, clarity, reduction, function
 ## Acceptance Criteria
 
 The chapter must include:
@@ -15,7 +15,7 @@ The chapter must include:
 - a short historical path into modernism
 - Bauhaus
 - Swiss / International Typographic Style
-- modernist principles such as grid, hierarchy, clarity, reduction, function
+- modernist principles such as
 - postmodern reaction: plurality, irony, disruption, quotation, expressive typography
 - examples of how those tensions still appear in contemporary digital design
 - a comparison table
@@ -47,8 +47,8 @@ Include:
 - a section called `Museum Research`
 - search instructions that encourage students to look for authentic examples in museum and institutional collections such as The Metropolitan Museum of Art, MoMA, Cooper Hewitt, V&A, Bauhaus archives, or other credible collections
 
-Do not fabricate museum objects or URLs. Give students search terms and tell them to verify actual objects themselves.
+Do not fabricate museum objewhite T-shirt: describe how a modernist presentation and a postmodern presentation could make the exact same shirt feel like different pcts or URLs. Give students search terms and tell them to verify actual objects themselves.
 
-Return briefly to the plain white T-shirt: describe how a modernist presentation and a postmodern presentation could make the exact same shirt feel like different products.
+Return briefly to the plain roducts.
 
 Finish with `What You Should Remember`.
